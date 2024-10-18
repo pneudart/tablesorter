@@ -1,0 +1,17 @@
+{
+  "name": "tablesorter",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pneudart/tablesorter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pneudart/tablesorter/issues"
+  },
+  "homepage": "https://github.com/pneudart/tablesorter#readme"
+}
